@@ -5,8 +5,8 @@ If you use this database, please cite the following papers:
 ```
 @inproceedings{ LargeKinFace2018, 
   Title = {Ensemble learning based on Convolutional Kernel Networks Features for Kinship Verification},
-  Author = {Qiang Guo and Bo Ma and Tianming Lan},
-  Booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
+  Author = {Guo, Qiang and Ma, Bo and Lan, Tianming},
+  Booktitle = {2018 IEEE International Conference on Multimedia and Expo (ICME)},
   Year = {2018}
 }
 ```
